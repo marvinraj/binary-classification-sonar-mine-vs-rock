@@ -1,2 +1,2 @@
 ## sonar, mines vs rocks
-### classify sonar targets/objects, whether an object is a metal or rock.
+### classify sonar targets/objects, predict whether an object is a metal or rock.
